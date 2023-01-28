@@ -20,14 +20,24 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 - Como ordenar uma tabela. [Ordem e Ranking](https://github.com/leandromad/Pandas_VAROS/blob/main/Ordem%20e%20Ranking.ipynb).
 
 ### 7 - Lendo e Escrevendo dados no excel.
-- Como integrar o python com a ferramenta. [Lendo e escrevendo dados Excel]https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20Escrevendo%20Dados%20no%20Excel.ipynb).
+- Como integrar o python com a ferramenta. [Lendo e escrevendo dados Excel](https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20Escrevendo%20Dados%20no%20Excel.ipynb).
 
 ### 8 - Lendo e Escrevendo dados em CSV.
-- Aprendendo a ler dados de balanços de empresas disponibilizados pela CVM em CSV [Lendo e escrevendo dados em CSV] (https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20escrevendo%20dados%20em%20CSV.ipynb).
+- Aprendendo a ler dados de balanços de empresas disponibilizados pela CVM em CSV [Lendo e escrevendo dados em CSV](https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20escrevendo%20dados%20em%20CSV.ipynb).
 
 ### 9 - Lendo e Escrevendo dados em CSV.
-- Aprendendo a ler dados de balanços de empresas disponibilizados pela CVM em CSV [Lendo e escrevendo dados em CSV] (https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20escrevendo%20dados%20em%20CSV.ipynb).
+- Aprendendo a ler dados de balanços de empresas disponibilizados pela CVM em CSV [Lendo e escrevendo dados em CSV](https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20escrevendo%20dados%20em%20CSV.ipynb).
 
 ### 10 - Dados do Yahoo finance.
--Como puxar dados de cotações e volumes de qualquer ação no mundo [Yahoo Finance] (https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Yahoo%20Finance.ipynb).
+-Como puxar dados de cotações e volumes de qualquer ação no mundo [Yahoo Finance](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Yahoo%20Finance.ipynb).
+
+### 11 - Dados do FRED.
+-Como puxar dados da economia/população americana em uma linha de código. [Dados FRED](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20FRED.ipynb).
+
+### 12 - Dados do World Bank.
+-Como puxar dados de todas as economias do mundo. [Dados World Bank](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20World%20Bank.ipynb).
+
+### 13 - Dados do Fama-French.
+-Como puxar dados de Factor Investing do mundo inteiro. [Dados Fama-French](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Fama-French.ipynb).
+
 
