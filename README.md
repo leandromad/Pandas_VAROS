@@ -40,4 +40,12 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 13 - Dados do Fama-French.
 -Como puxar dados de Factor Investing do mundo inteiro. [Dados Fama-French](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Fama-French.ipynb).
 
+### 14 - Lidando com dados faltantes.
+-Comose livrar ou preencher cotações ausentes em uma série de dados. [Dados Ausentes](https://github.com/leandromad/Pandas_VAROS/blob/main/Lidando%20com%20dados%20faltantes.ipynb).
+
+### 15 - Lidando com valores duplicados.
+-Como se tratar valores duplicados. [Dados Duplicados](https://github.com/leandromad/Pandas_VAROS/blob/main/Lidando%20com%20valores%20duplicados.ipynb).
+
+### 16 - Tipos de dados e substituição de textos.
+-Como substituir um dado bugado. [Tipos de dados e substituição](https://github.com/leandromad/Pandas_VAROS/blob/main/Tipos%20de%20dados%20e%20substitui%C3%A7%C3%A3o%20de%20textos.ipynb).
 
