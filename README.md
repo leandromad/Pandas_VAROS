@@ -29,23 +29,23 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 - Aprendendo a ler dados de balanços de empresas disponibilizados pela CVM em CSV [Lendo e escrevendo dados em CSV](https://github.com/leandromad/Pandas_VAROS/blob/main/Lendo%20e%20escrevendo%20dados%20em%20CSV.ipynb).
 
 ### 10 - Dados do Yahoo finance.
--Como puxar dados de cotações e volumes de qualquer ação no mundo [Yahoo Finance](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Yahoo%20Finance.ipynb).
+- Como puxar dados de cotações e volumes de qualquer ação no mundo [Yahoo Finance](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Yahoo%20Finance.ipynb).
 
 ### 11 - Dados do FRED.
--Como puxar dados da economia/população americana em uma linha de código. [Dados FRED](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20FRED.ipynb).
+- Como puxar dados da economia/população americana em uma linha de código. [Dados FRED](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20FRED.ipynb).
 
 ### 12 - Dados do World Bank.
--Como puxar dados de todas as economias do mundo. [Dados World Bank](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20World%20Bank.ipynb).
+- Como puxar dados de todas as economias do mundo. [Dados World Bank](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20World%20Bank.ipynb).
 
 ### 13 - Dados do Fama-French.
--Como puxar dados de Factor Investing do mundo inteiro. [Dados Fama-French](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Fama-French.ipynb).
+- Como puxar dados de Factor Investing do mundo inteiro. [Dados Fama-French](https://github.com/leandromad/Pandas_VAROS/blob/main/Dados%20Fama-French.ipynb).
 
 ### 14 - Lidando com dados faltantes.
--Comose livrar ou preencher cotações ausentes em uma série de dados. [Dados Ausentes](https://github.com/leandromad/Pandas_VAROS/blob/main/Lidando%20com%20dados%20faltantes.ipynb).
+- Comose livrar ou preencher cotações ausentes em uma série de dados. [Dados Ausentes](https://github.com/leandromad/Pandas_VAROS/blob/main/Lidando%20com%20dados%20faltantes.ipynb).
 
 ### 15 - Lidando com valores duplicados.
--Como se tratar valores duplicados. [Dados Duplicados](https://github.com/leandromad/Pandas_VAROS/blob/main/Lidando%20com%20valores%20duplicados.ipynb).
+- Como se tratar valores duplicados. [Dados Duplicados](https://github.com/leandromad/Pandas_VAROS/blob/main/Lidando%20com%20valores%20duplicados.ipynb).
 
 ### 16 - Tipos de dados e substituição de textos.
--Como substituir um dado bugado. [Tipos de dados e substituição](https://github.com/leandromad/Pandas_VAROS/blob/main/Tipos%20de%20dados%20e%20substitui%C3%A7%C3%A3o%20de%20textos.ipynb).
+- Como substituir um dado bugado. [Tipos de dados e substituição](https://github.com/leandromad/Pandas_VAROS/blob/main/Tipos%20de%20dados%20e%20substitui%C3%A7%C3%A3o%20de%20textos.ipynb).
 
