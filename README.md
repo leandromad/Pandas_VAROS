@@ -49,3 +49,11 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 16 - Tipos de dados e substituição de textos.
 - Como substituir um dado bugado. [Tipos de dados e substituição](https://github.com/leandromad/Pandas_VAROS/blob/main/Tipos%20de%20dados%20e%20substitui%C3%A7%C3%A3o%20de%20textos.ipynb).
 
+### 17 - Map.
+- Usando Map para alterar dados. [Map](https://github.com/leandromad/Pandas_VAROS/blob/main/Map%20para%20alterar%20dados.ipynb).
+
+### 18 - Quartis e Dummys.
+- Como separar tabelas por quartis e dummys. [Quartis e Dummys](https://github.com/leandromad/Pandas_VAROS/blob/main/Quartis%20e%20Dummys.ipynb).
+
+
+
