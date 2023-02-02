@@ -55,5 +55,26 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 18 - Quartis e Dummys.
 - Como separar tabelas por quartis e dummys. [Quartis e Dummys](https://github.com/leandromad/Pandas_VAROS/blob/main/Quartis%20e%20Dummys.ipynb).
 
+### 19 - Melt e Pivot.
+- Reformatação de dados. Como preparar nossa tabela para um banco de dados. [Melt e Pivot](https://github.com/leandromad/Pandas_VAROS/blob/main/Reformata%C3%A7%C3%A3o%20com%20melt%20e%20pivot.ipynb).
+
+### 20 - Concat, merge e join.
+- Junção de tabelas utilizando os métodos concat, merge e join. [Concat, Merge e Join](https://github.com/leandromad/Pandas_VAROS/blob/main/Jun%C3%A7%C3%A3o%20de%20Tabelas.ipynb).
+
+### 21 - Resample.
+- Mudando datas com Resample. [Resample](https://github.com/leandromad/Pandas_VAROS/blob/main/Resample%20datas.ipynb).
+
+### 22 - Retornos.
+- Como calcular retornos de ações. [Retornos](https://github.com/leandromad/Pandas_VAROS/blob/main/Retornos.ipynb).
+
+### 23 - Rolling.
+- Como criar médias móveis e janelas de volatilidade. [Rolling](https://github.com/leandromad/Pandas_VAROS/blob/main/Rolling.ipynb).
+
+### 24 - Cov e corr.
+- Como calcular matriz de covariância e correlação. [Cov e corr](https://github.com/leandromad/Pandas_VAROS/blob/main/Corr%20e%20cov.ipynb).
+
+### 25 - Groupby.
+- Como calcular retornos acumulados mês a mês em um modelo de investimentos. [Groupby](https://github.com/leandromad/Pandas_VAROS/blob/main/Corr%20e%20cov.ipynb).
+
 
 
