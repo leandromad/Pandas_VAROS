@@ -67,5 +67,8 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 22 - Retornos.
 - Como calcular retornos de ações. [Retornos](https://github.com/leandromad/Pandas_VAROS/blob/main/Retornos.ipynb).
 
+### 23 - Rolling.
+- Como criar médias móveis e janelas de volatilidade. [Rolling](https://github.com/leandromad/Pandas_VAROS/blob/main/Rolling.ipynb).
+
 
 
