@@ -55,5 +55,8 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 18 - Quartis e Dummys.
 - Como separar tabelas por quartis e dummys. [Quartis e Dummys](https://github.com/leandromad/Pandas_VAROS/blob/main/Quartis%20e%20Dummys.ipynb).
 
+### 19 - Melt e Pivot.
+- Reformatação de dados. Como preparar nossa tabela para um banco de dados. [Melt e Pivot](https://github.com/leandromad/Pandas_VAROS/blob/main/Reformata%C3%A7%C3%A3o%20com%20melt%20e%20pivot.ipynb).
+
 
 
