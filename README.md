@@ -70,5 +70,11 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 23 - Rolling.
 - Como criar médias móveis e janelas de volatilidade. [Rolling](https://github.com/leandromad/Pandas_VAROS/blob/main/Rolling.ipynb).
 
+### 24 - Cov e corr.
+- Como calcular matriz de covariância e correlação. [Cov e corr](https://github.com/leandromad/Pandas_VAROS/blob/main/Corr%20e%20cov.ipynb).
+
+### 25 - Groupby.
+- Como calcular retornos acumulados mês a mês em um modelo de investimentos. [Groupby](https://github.com/leandromad/Pandas_VAROS/blob/main/Corr%20e%20cov.ipynb).
+
 
 
