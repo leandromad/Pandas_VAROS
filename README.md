@@ -58,5 +58,8 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 19 - Melt e Pivot.
 - Reformatação de dados. Como preparar nossa tabela para um banco de dados. [Melt e Pivot](https://github.com/leandromad/Pandas_VAROS/blob/main/Reformata%C3%A7%C3%A3o%20com%20melt%20e%20pivot.ipynb).
 
+### 20 - Concat, merge e join.
+- Junção de tabelas utilizando os métodos concat, merge e join. [Concat, Merge e Join](https://github.com/leandromad/Pandas_VAROS/blob/main/Jun%C3%A7%C3%A3o%20de%20Tabelas.ipynb).
+
 
 
