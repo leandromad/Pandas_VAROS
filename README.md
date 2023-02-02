@@ -64,5 +64,8 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 21 - Resample.
 - Mudando datas com Resample. [Resample](https://github.com/leandromad/Pandas_VAROS/blob/main/Resample%20datas.ipynb).
 
+### 22 - Retornos.
+- Como calcular retornos de ações. [Retornos](https://github.com/leandromad/Pandas_VAROS/blob/main/Retornos.ipynb).
+
 
 
