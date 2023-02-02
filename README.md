@@ -61,5 +61,8 @@ Arquivos de Conteúdos sobre biblioteca Pandas Python - VAROS
 ### 20 - Concat, merge e join.
 - Junção de tabelas utilizando os métodos concat, merge e join. [Concat, Merge e Join](https://github.com/leandromad/Pandas_VAROS/blob/main/Jun%C3%A7%C3%A3o%20de%20Tabelas.ipynb).
 
+### 21 - Resample.
+- Mudando datas com Resample. [Resample](https://github.com/leandromad/Pandas_VAROS/blob/main/Resample%20datas.ipynb).
+
 
 
